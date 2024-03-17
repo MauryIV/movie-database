@@ -35,7 +35,10 @@ This is a good start for creating your own api database or to build off of for t
 
 <a id="Visuals"></a>
 ## Visuals
-NA
+![Screenshot 2024-03-17 at 3 39 36 PM](https://github.com/MauryIV/movie-database/assets/146037880/899a014b-bb94-4835-8570-717b2a78797e)
+![Screenshot 2024-03-17 at 3 40 58 PM](https://github.com/MauryIV/movie-database/assets/146037880/86cf6af6-9254-44cd-9035-8f451a7fa4fb)
+![Screenshot 2024-03-17 at 3 41 17 PM](https://github.com/MauryIV/movie-database/assets/146037880/3beebcb1-aee7-44f5-a6f1-2153a7e51e04)
+![Screenshot 2024-03-17 at 2 23 26 PM](https://github.com/MauryIV/movie-database/assets/146037880/bb93f675-7ffa-41da-bd4d-58b24a04c119)
 
 <a id="tests"></a>
 ## Tests
