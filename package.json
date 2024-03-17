@@ -1,10 +1,11 @@
 {
-  "name": "mini-project",
+  "name": "movie-database",
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "pg": "^8.11.3"
   }
 }
