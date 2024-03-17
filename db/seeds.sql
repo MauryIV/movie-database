@@ -15,8 +15,3 @@ INSERT INTO reviews (movie_id, movie_review) VALUES
 (5, 'You''re all going to die down here.'),
 (6, 'Is it a zombie movie? Is it a monster movie? Is it an alien movie? Kurt Russel is in it so who cares!'),
 (7, 'Whether or not you like westerns, this movie is an incredible work of art and a classic. Plus Kurt Russel is in it so who cares!');
-
-SELECT movies.movie_name AS "Movie", reviews.movie_review AS "Review"
-FROM reviews
-LEFT JOIN movies ON reviews.movie_id = movies.id
-ORDER BY movies.movie_name;
